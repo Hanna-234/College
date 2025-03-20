@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Welcome to Kayamkulam</title>
+  </head>
+<body>
+
+<header>
+    <h1>Welcome to Kayamkulam, Alappuzha</h1>
+    <p>A Beautiful Destination in God's Own Country</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#attractions">Attractions</a>
+    <a href="#history">History</a>
+    <a href="#culture">Culture</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+    <section id="about" class="content-section">
+        <h2>About Kayamkulam</h2>
+        <p>Kayamkulam is a beautiful town located in the Alappuzha district of Kerala, India. It is known for its serene backwaters, rich culture, and historical significance. The town is a perfect blend of natural beauty and cultural heritage, making it a must-visit destination for tourists.</p>
+        </section>
+
+    <section id="attractions" class="attractions content-section">
+        <h2>Attractions in Kayamkulam</h2>
+        <ul>
+            <li><strong>Kayamkulam Lake:</strong> A picturesque lake surrounded by lush greenery, ideal for boat rides and enjoying nature.</li>
+            <li><strong>Krishnapuram Palace:</strong> A historical palace showcasing Kerala's traditional architecture and artifacts.</li>
+        </ul>
+    </section>
+
+    <section id="history" class="history content-section">
+        <h2>History of Kayamkulam</h2>
+        <p>Kayamkulam has a rich history dating back to ancient times. It was once the capital of the Kayamkulam kingdom, which ruled parts of southern Kerala. The region has witnessed significant historical events, with remnants of its glorious past visible in the form of temples, palaces, and forts.</p>
+        <ul>
+            <li><strong>The Kayamkulam Kingdom:</strong> A powerful kingdom that existed from the 10th century to the 18th century, known for its contributions to art and culture.</li>
+            <li><strong>The Krishnapuram Palace:</strong> The palace, built during the reign of the Kayamkulam Raja, stands as a reminder of the royal history of the region.</li>
+        </ul>
+    </section>
+
+    <section id="culture" class="culture content-section">
+        <h2>Culture of Kayamkulam</h2>
+        <p>The culture of Kayamkulam is deeply rooted in the traditions of Kerala. It has a rich heritage of classical dance, music, and festivals that attract visitors from all over the world.</p>
+        <ul>
+            <li><strong>Onam:</strong> The annual festival celebrating the harvest season, with grand feasts, traditional dance forms, and boat races.</li>
+            <li><strong>Vallam Kali:</strong> The famous boat races that are held during Onam, showcasing Kerala's unique water sports.</li>
+            <li><strong>Traditional Music & Dance:</strong> Kayamkulam is known for its classical music and dance forms, including Kathakali, Mohiniyattam, and Koodiyattam.</li>
+        </ul>
+    </section>
+    
+        <section id="contact" class="content-section">
+        <h2>Contact Information</h2>
+        <p>For more information about Kayamkulam or to plan your visit, feel free to contact us:</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:kayamkulamtourism@gmail.com">kayamkulamtourism@gmail.com</a></li>
+            <li><strong>Phone:</strong> +91 9876543210</li>
+            <li><strong>Visit :</strong> Kayamkulam, Alappuzha, Kerala, India</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2025 Kayamkulam Tourism | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
