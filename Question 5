@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animation Blog</title>
+</head>
+<body>
+	<h1>Welcome to the World of Animation!</h1>
+	
+	<p>Animation is a fascinating field that brings imagination to life. From traditional hand-drawn techniques to modern computer-generated imagery (CGI), animation has evolved significantly over the years.</p>
+	
+	<h2>Types of Animation</h2>
+	
+	<ul>
+		<li>Traditional Animation</li>
+		<li>3D Computer Animation</li>
+		<li>Stop-Motion Animation</li>
+		<li>2D Computer Animation</li>
+	</ul>
+	
+	<h2>Animation Techniques</h2>
+	
+	<ol>
+		<li>Keyframe Animation</li>
+		<li>Tweening</li>
+		<li>Blending</li>
+		<li>Morphing</li>
+	</ol>
+	
+	<h2>Animation in Film and Television</h2>
+	
+	<p>Animation has been a staple in film and television for decades. From classic Disney movies to modern-day CGI blockbusters, animation continues to captivate audiences worldwide.</p>
+	
+	<h2>Conclusion</h2>
+	
+	<p>Animation is a dynamic and ever-evolving field that offers endless creative possibilities. Whether you're an aspiring animator or simply a fan of animation, there's always something new to discover and explore.</p>
+	
+	<h3>What's your favorite type of animation? Share your thoughts in the comments below!</h3>
+</body>
+</html>
