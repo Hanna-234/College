@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hanna Biju's Resume</title>
+    </head>
+<body>
+
+<header>
+    <h1>Hanna Biju</h1>
+    <p>Full Stack Developer | Problem Solver | Tech Enthusiast</p>
+</header>
+
+<div class="container">
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:hanna.biju@email.com">hanna.biju@email.com</a></li>
+            <li><strong>Phone:</strong> +91 9876543210</li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hanna-biju" target="_blank">linkedin.com/in/hanna-biju</a></li>
+            <li><strong>GitHub:</strong> <a href="https://github.com/hanna-biju" target="_blank">github.com/hanna-biju</a></li>
+        </ul>
+    </section>
+    
+    <section class="experience">
+        <h2>Work Experience</h2>
+        <div>
+            <h3>Full Stack Developer - ABC Technologies</h3>
+            <p><strong>January 2023 - Present</strong></p>
+            <ul>
+                <li>Developed and maintained full-stack web applications using React, Node.js, and MongoDB.</li>
+                <li>Worked with cross-functional teams to design, develop, and deploy scalable web applications.</li>
+                <li>Optimized performance and reduced page load time by 30% using various performance tuning techniques.</li>
+            </ul>
+        </div>
+        <div>
+            <h3>Software Developer Intern - XYZ Solutions</h3>
+            <p><strong>June 2022 - December 2022</strong></p>
+            <ul>
+                <li>Assisted in developing RESTful APIs using Node.js and Express.js.</li>
+                <li>Collaborated with senior developers to create dynamic and interactive web interfaces.</li>
+                <li>Contributed to version control using Git and participated in Agile project management.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <div>
+            <h3>Bachelor of Technology in Computer Science</h3>
+            <p><strong>Amal Jyothi College of Engineering, Kanjirapally</strong> | <em>2024-2028</em></p>
+            <ul>
+                <li>CGPA: 9.5/10</li>
+                                <li>Relevant coursework: Data Structures, Algorithms, Web Development, Database Management Systems</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MongoDB</li>
+            <li>HTML & CSS</li>
+<li>Git</li>
+            <li>Agile Development</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Task Management App</strong>: A full-stack web application built with React, Node.js, and MongoDB. Users can create, manage, and track tasks.</li>
+            <li><strong>E-commerce Website</strong>: Developed an e-commerce platform with product listing, shopping cart, and payment gateway integration using React and Node.js.</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2025 Hanna Biju | All Rights Reserved</p>
+</footer>
+</body>
+</html>
